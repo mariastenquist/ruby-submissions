@@ -104,7 +104,7 @@ Outline:
 
 
 
-Maria Stenquist: Sugar on the Brain
+Maria Stenquist: 
 Outline:
 
 
