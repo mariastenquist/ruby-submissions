@@ -104,8 +104,7 @@ Outline:
 
 
 
-Maria Stenquist: Sugar on the brain (why this is bad). 
-
+Maria Stenquist: 
 Outline:
 
 
