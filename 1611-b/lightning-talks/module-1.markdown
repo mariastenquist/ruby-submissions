@@ -104,7 +104,7 @@ Outline:
 
 
 
-Maria Stenquist:
+Maria Stenquist: Why Sugar is Bad (for you).
 
 Outline:
 
