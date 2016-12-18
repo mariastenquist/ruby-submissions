@@ -110,9 +110,9 @@ Outline:
 
 
 
-Maria Stenquist: Sugar on the Brain (why this is bad). 
+Maria Stenquist: Sugar and the body
 
-Outline:
+Outline: https://gist.github.com/mariastenquist/d9f047e395e3383b53f83b4a6c254190
 
 
 
